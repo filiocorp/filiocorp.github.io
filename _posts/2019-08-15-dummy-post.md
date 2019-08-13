@@ -11,9 +11,17 @@ Hey reader, welcome to this file.
 
 The first thing you'll want to do to make a new article is to copy this entire page, and paste it in the same folder we're in right now (`_posts`). All articles are stored in the (`/your-blog-folder/_posts`) folder. This is the only folder you need to work with.
 
-- `your-blog-folder` is what I'll call the folder where all your blog stuff is stored.
-
 Then, take a look at the information at the top of this file (between the dashed lines). Go ahead and edit all of that so that it pertains to your new article.
+
+**Here's some important steps you need to know:**
+
+- `your-blog-folder` is what I'll call the folder where all your blog stuff is stored. It is not actually going to be called `your-blog-folder`.
+- When you make a new article, it has to be a Markdown file (ends in `.md` or `.markdown`)
+- When you paste the article, change the name of the document to look like this:
+  - `2019-08-15-article-title.md`
+- All posts go in the `/your-blog-folder/_posts` folder
+- All images go in the `/your-blog-folder/images` folder
+- When you're done making your changes, save everything and use `git push`
 
 Here's how to add an image to your article:
 ![Lamborghini](https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/Evo/car-configurator.jpg)

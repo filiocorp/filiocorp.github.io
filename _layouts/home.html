@@ -1,14 +1,9 @@
 ---
 layout: default
 ---
+<div class="vertical-banner"></div>
 
 <div class="home">
-  {%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
   {%- if site.posts.size > 0 -%}
   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
   <ul class="post-list">
@@ -39,3 +34,58 @@ layout: default
   {%- endif -%}
 
 </div>
+
+<style scoped>
+  .page-content {
+    flex: 1;
+    display: flex;
+    width: 100%;
+    max-height: calc(100vh - 56px);
+    padding: 0px;
+  }
+
+  .page-content>div {
+    min-height: 100%;
+  }
+
+  .vertical-banner {
+    flex: 1;
+    min-height: 100%;
+    background: url("../assets/images/hero.jpg") no-repeat left center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .home {
+    flex: 2;
+    padding: 20px;
+    overflow: auto;
+  }
+
+  .home>h2 {
+    margin-bottom: 0px;
+  }
+
+  @media screen and (max-width: 800px) {
+    .page-content {
+      flex-direction: column;
+      max-height: none;
+    }
+
+    .vertical-banner {
+      min-height: 100px !important;
+      background: url("../assets/images/hero.jpg") no-repeat center center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+
+    .home {
+      flex: 1;
+      padding: 10px;
+    }
+  }
+</style>

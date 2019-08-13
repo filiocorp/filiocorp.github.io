@@ -5,14 +5,164 @@
 
 <body>
 
-  {%- include header.html -%}
+  <!--{%- include header.html -%}-->
 
   <main class="page-content" aria-label="Content">
-    {{ content }}
+    <div class="vertical-banner">
+      <!--DELETE ALL CLASSES BEGINNING WITH "BANNER" TO SWITCH BACK TO OLD THEME-->
+      <div class="banner-content">
+        <a href="/">
+          <img src="{{ "../assets/images/logoCircle.png" | relative_url }}" alt="Logo">
+        </a>
+        <h1>Filio Blog</h1>
+        <h4>The latest news and updates from Filio Corp</h4>
+        <a href="/">Home</a><br>
+        <a href="/about">About</a><br>
+        <a href="https://www.filiocorp.com">Main Website</a>
+      </div>
+    </div>
+    <div class="banner-mobile">
+      <a href="/" class="logo">
+        <img src="{{ "../assets/images/logoWhite.png" | relative_url }}" alt="Logo">
+      </a>
+      <a href="/" class="nav-item">Home</a>
+      <a href="/about" class="nav-item">About</a>
+      <a href="https://www.filiocorp.com" class="nav-item">Main Website</a>
+    </div>
+    <div class="content-wrap">
+      {{ content }}
+    </div>
   </main>
 
-  {%- include footer.html -%}
+  <!--{%- include footer.html -%}-->
 
 </body>
 
 </html>
+
+<style scoped>
+  .page-content {
+    flex: 1;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    max-height: 100vh;
+    /*UNCOMMENT TO GO BACK TO OLD THEME*/
+    /*height: calc(100vh - 56px) !important;
+    max-height: calc(100vh - 56px) !important;*/
+    padding: 0px;
+  }
+
+  .vertical-banner {
+    flex: 1;
+    min-height: 100%;
+    background: url("{{ '../assets/images/hero.jpg' | relative_url }}") no-repeat left center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    /*
+    DELETE THIS SECTION TO GO BACK TO OLD THEME
+    */
+    max-height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /*
+  DELETE .banner-content TO GO BACK TO OLD THEME
+  */
+  .banner-content {
+    text-align: center;
+    color: white;
+    padding: 10px;
+  }
+
+  .banner-content>* {
+    font-weight: bolder;
+    color: white !important;
+    margin: 0;
+    line-height: 100%;
+  }
+
+  .banner-content img {
+    width: 200px;
+    margin-bottom: 10px;
+  }
+
+  .banner-content h4 {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid white;
+  }
+
+  .banner-mobile {
+    /*background: url("{{ '../assets/images/hero.jpg' | relative_url }}") no-repeat left center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+
+    background-color: #499EF4;
+
+    display: none;
+  }
+
+  .content-wrap {
+    flex: 2.5;
+    padding: 20px 30px;
+    overflow: auto;
+  }
+
+  .content-wrap>h2 {
+    margin-bottom: 0px;
+  }
+
+  @media screen and (max-width: 1000px) {
+    .page-content {
+      flex-direction: column;
+      height: auto !important;
+      max-height: none !important;
+    }
+
+    .vertical-banner {
+      min-height: 100px !important;
+      background: url("{{ '../assets/images/hero.jpg' | relative_url }}") no-repeat left center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+
+      display: none;
+    }
+
+    .banner-mobile {
+      display: flex;
+      height: 50px;
+      padding: 5px 10px;
+      align-items: center;
+    }
+
+    .banner-mobile .logo {
+      height: 30px;
+      margin-right: auto;
+    }
+
+    .banner-mobile .logo img {
+      height: 30px;
+    }
+
+    .banner-mobile .nav-item {
+      color: white !important;
+      padding: 0 7px;
+    }
+
+    .content-wrap {
+      flex: 1;
+      padding: 10px 20px;
+    }
+  }
+</style>

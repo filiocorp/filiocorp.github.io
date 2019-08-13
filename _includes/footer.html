@@ -4,27 +4,20 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col one-half">
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
+      <div class="footer-col footer-left">
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+          <img class="footer-logo" src="{{ "../assets/images/logoBlack.png" | relative_url }}" alt="Logo" />
+          <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        </a>
       </div>
 
-      <div class="footer-col one-half">
+      <div class="footer-col footer-right">
         <p>{{- site.description | escape -}}</p>
+        <a class="u-email" href="mailto:{{ site.email }}">Contact: {{ site.email }}</a>
+        <br>
+        <a href="https://www.filiocorp.com">Main Website</a>
       </div>
 
-      <div class="social-links">
-        {%- include social.html -%}
-      </div>
     </div>
 
   </div>

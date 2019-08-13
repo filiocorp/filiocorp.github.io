@@ -384,6 +384,8 @@ table td {
 .site-footer {
   border-top: 1px solid #e8e8e8;
   padding: 15px 0 20px 0;
+  background-color: #fdfdfd;
+  /*box-shadow: 0 0 10px 0 rgba(47, 47, 47, 0.05);*/
 }
 
 .footer-heading {
@@ -535,6 +537,10 @@ table td {
 
 .post-content {
   margin-bottom: 30px;
+}
+
+.post-content p {
+  font-size: 18px;
 }
 
 .post-content h2 {

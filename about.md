@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to the official Filio Blog! Filio (Field Information Organzation) is a geospatial photo management company. Our platform helps users simplify image management and documentation for large projects like construction.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+At this blog, we'll be keeping everyone up to date on our latest achievements, awards, and updates. If you're interested in learning more about us, [visit our official website][filio-home] or contact us at info@filiocorp.com.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[filio-home]: https://www.filiocorp.com

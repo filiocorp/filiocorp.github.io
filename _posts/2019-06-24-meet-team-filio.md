@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meet Filio"
-date: 2019-08-13 01:36:32 -0400
+date: 2019-06-24 01:36:32 -0400
 categories: jekyll update
 description: "Filio featured by Georgia Tech School of Civil Engineering"
 author: "Fikret Atalay"

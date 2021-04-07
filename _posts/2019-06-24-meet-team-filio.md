@@ -14,5 +14,5 @@ The story of Filio originates in Atlanta, GA. Founder Mahdi Roozbahani (pictured
 
 Follow the link below for a feature article on Filio by Georgia Tech's School of Civil and Environmental Engineering:
 
-https://ce.gatech.edu/news/grad-students-startup-filio-makes-it-easy-capture-and-catalog-worksite-photos
+<https://ce.gatech.edu/news/grad-students-startup-filio-makes-it-easy-capture-and-catalog-worksite-photos>
 

@@ -9,7 +9,7 @@ author: "Filio Team"
 
 ﻿**Bringing a “Vision” To Life: Filio’s Backstory**
 
-![](Aspose.Words.624d78d4-f93e-46f1-98ff-f93e2f92a88a.001.jpeg)
+![backStory](/assets/images/backstory.jpg)
 
 What happens when engineers are limited in doing their best work? Your hometown or the city you grew up in crumbles to ruins. Architectural wonders like the Golden Gate bridge are nonexistent. The water for your morning cup of coffee is polluted; your car doesn’t get your family safely to work or school. 
 

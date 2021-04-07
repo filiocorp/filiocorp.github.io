@@ -9,7 +9,7 @@ author: "Filio Team"
 
 **An Engineer’s Day in The Life With Filio (The Smart Way)**
 
-![/assets/images/engineer-life.jpg](Aspose.Words.514b2c03-cca1-489f-a92f-fe8ac6c5a03e.001.jpeg)
+![An Engineer’s Day with Filio](/assets/images/engineer-life.jpg)
 
 Jacob Langwood is a civil engineer who uses Filio daily on company projects. Why? Because this all-in-one SaaS app lets him simplify image & video documentation - cutting down on project timelines, wasted hours, and unnecessary communication with his team.
 

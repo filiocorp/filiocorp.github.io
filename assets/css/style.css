@@ -126,16 +126,16 @@ h6 {
  * Links
  */
 a {
-  color: #499EF4;
+  color: #EAAA00;
   text-decoration: none;
 }
 
 a:visited {
-  color: #499EF4;
+  color: #EAAA00;
 }
 
 a:hover {
-  color: #499EF4;
+  color: #2F353A;
   text-decoration: underline;
 }
 
@@ -522,7 +522,6 @@ table td {
   display: block;
   font-size: 24px;
   margin-bottom: 0px;
-  color: #EAAA00;
 }
 
 /**

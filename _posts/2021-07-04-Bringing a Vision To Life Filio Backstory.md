@@ -57,14 +57,6 @@ Later, however, one founder would leave to work for Amazon and another to start 
 
 One could say Mahdi had a vision for this startup, considering he was inspired by Google glasses of all things.
 
-But the main thing Roozbahani could “see” was that time = money.
-
-He says, “if Filio can save time, you can spend it somewhere else. “
-
-True, while “simplifying image and video documentation” doesn’t appear to be the most glamorous startup mission, it is certainly a noble cause. 
-
-So, cheers to the future of Filio - the smart visual asset management platform.
-
 But the main thing Roozbahani could &quot;see&quot; was that time = money.
 
 He says, &quot;if Filio can save time, you can spend it somewhere else. &quot;

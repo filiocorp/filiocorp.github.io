@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Filio replaces 8 smartphone apps"
+title: "Filio Case Study - WRA Engineering Environmental Scientist Project"
 date: 2021-05-11 04:00:32 -0400
 categories: jekyll update
 description: "Faster, Simpler, and Smarter"
 author: "Filio Team"
 ---
 
-![Logo, company name  Description automatically generated](Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.001.png)**Faster, Simpler, and Smarter**
+![](/assets/images/Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.001.png)**Faster, Simpler, and Smarter**
 
 `  `Photo Log Management for a Civil Engineering Firm	
 
@@ -21,7 +21,7 @@ Annotate Site Photos		Automatically Capture Coordinates and Direction
 **to maximize user experience without losing time on**
 
 **the project.**
-![](Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.002.png)**The Project**
+![](/assets/images/Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.002.png)**The Project**
 
 Sort and Review Photo Logs
 
@@ -35,10 +35,10 @@ Tracking the zone’s plant life requires taking a photographic inventory of all
 
 
 
-` `![Logo, company name  Description automatically generated](Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.003.png)
+` `![](/assets/images/Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.003.png)
 
 **WRA was using three different softwares to reach the same result Filio achieves on its own.**
-![](Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.004.png)**Filio’s Solution**
+![](/assets/images/Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.004.png)**Filio’s Solution**
 
 Using Filio, WRA’s environmental scientists take photos and videos using the camera built into the Filio smartphone app. The mobile app automatically assigns a geolocation and measures the direction of each photo while allowing users to add voice notes and markup the images. Since Filio instantaneously syncs photos to the cloud, team members in the office can review information via a corresponding web platform as field crews collect onsite project data. In the web platform, users can organize photos into dedicated projects, making images standardized and searchable for subsequent editing, filtering, reporting, and presentation.
 
@@ -47,7 +47,7 @@ Prior to implementing Filio, a WRA scientist would take a picture or video using
 **“My favorite thing is the convenience and time saving factor. I use Filio every time I’m in the field.”**
 
 – WRA scientist
-![](Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.005.png)**Going the Extra Mile**
+![](/assets/images/Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.005.png)**Going the Extra Mile**
 
 When WRA first deployed Filio in their wetlands monitoring project, the app enabled rich data collection in the field, but the users still faced an enormous challenge. The project included more than 1,200 photos of similar trees and landscapes, making it extremely difficult for the WRA team to differentiate between images within the project. Filio originally sorted images by date, which was sufficient for smaller photo collections, but did not suffice for the wetlands survey’s enormous document library.
 
@@ -56,12 +56,12 @@ Filio and WRA discussed the issue on a conference call and identified the soluti
 WRA scientists can hover over a thumbnail of any image in the photo log to view the name, accompanying description, and coordinates. With this capability at their fingertips, the WRA team can easily identify critical information about each photo (such as which cardinal direction it faces). The feature turned a multi-day sorting process into a simple click and is now available to Filio customers everywhere.
 
 
-![](Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.006.png)**Using Filio reduced costs billed to the photo log project by an estimated 50%**
+![](/assets/images/Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.006.png)**Using Filio reduced costs billed to the photo log project by an estimated 50%**
 
-![](Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.007.png)**The new photo sorting feature saved WRA 16+ hours of labor time for the wetlands monitoring project alone**
+![](/assets/images/Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.007.png)**The new photo sorting feature saved WRA 16+ hours of labor time for the wetlands monitoring project alone**
 
 **The Filio upgrade took under one week, enabling an enhanced user experience without losing time on the project**
 
-![](Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.008.png)
+![](/assets/images/Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.008.png)
 
 Start Your Own Great Experience	•	[www.filio.io](http://www.filio.io/)	•	[**contact@filio.io**](mailto:contact@filio.io)

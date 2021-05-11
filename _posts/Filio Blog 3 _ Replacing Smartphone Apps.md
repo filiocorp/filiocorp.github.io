@@ -1,4 +1,12 @@
-﻿**Filio replaces 8 smartphone apps. (here’s how)**
+﻿---
+layout: post
+title: "Filio replaces 8 smartphone apps"
+date: 2021-05-11 04:00:32 -0400
+categories: jekyll update
+description: "Learn how can you use just one Filio app to simply replace 8 apps"
+author: "Filio Team"
+---
+ **Filio replaces 8 smartphone apps. (here’s how)**
 
 ![](Aspose.Words.a753221b-1676-482f-b474-8ac61393696e.001.jpeg)
 

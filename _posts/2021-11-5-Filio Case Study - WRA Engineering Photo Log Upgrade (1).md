@@ -1,4 +1,13 @@
-﻿![Logo, company name  Description automatically generated](Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.001.png)**Faster, Simpler, and Smarter**
+---
+layout: post
+title: "Filio replaces 8 smartphone apps"
+date: 2021-05-11 04:00:32 -0400
+categories: jekyll update
+description: "Faster, Simpler, and Smarter"
+author: "Filio Team"
+---
+
+![Logo, company name  Description automatically generated](Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.001.png)**Faster, Simpler, and Smarter**
 
 `  `Photo Log Management for a Civil Engineering Firm	
 
@@ -14,7 +23,7 @@ Annotate Site Photos		Automatically Capture Coordinates and Direction
 **the project.**
 ![](Aspose.Words.1a972e98-2888-47d8-bbca-0e413043600f.002.png)**The Project**
 
-Sort and Review Photo Logs
+Sort and Review Photo Logs
 
 WRA Engineering, a Filio customer, employs a team of environmental scientists to execute regulatory assessments for land development. These evaluations are often conducted as mitigation for construction projects, as environmental protocols require construction companies to restore a certain percentage of vegetation. One such project ensures the native vegetation inhabiting a Florida wetlands construction zone meets the criteria established in the development’s construction permit.
 

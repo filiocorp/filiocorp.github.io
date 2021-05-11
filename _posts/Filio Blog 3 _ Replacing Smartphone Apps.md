@@ -6,6 +6,7 @@ categories: jekyll update
 description: "Learn how can you use just one Filio app to simply replace 8 apps"
 author: "Filio Team"
 ---
+
  **Filio replaces 8 smartphone apps. (here’s how)**
 
 ![An Engineer’s Day with Filio](/assets/images/replace8.jpeg)

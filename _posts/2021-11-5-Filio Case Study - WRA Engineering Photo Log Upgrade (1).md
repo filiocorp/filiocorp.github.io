@@ -8,4 +8,5 @@ author: "Filio Team"
 ---
 
 ![](/assets/images/Filio Case Study - WRA Engineering Photo Log Upgrade.pdf)
+<image src="/assets/images/Filio Case Study - WRA Engineering Photo Log Upgrade.pdf" />
 

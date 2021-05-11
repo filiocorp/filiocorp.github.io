@@ -6,5 +6,5 @@ categories: jekyll update
 description: "Faster, Simpler, and Smarter"
 author: "Filio Team"
 ---
-<embed src="/assets/images/Filio Case Study - WRA Engineering Photo Log Upgrade.pdf" width="100%"/>
+<embed src="/assets/images/Filio Case Study - WRA Engineering Photo Log Upgrade.pdf" width="100%" height="850px"/>
 

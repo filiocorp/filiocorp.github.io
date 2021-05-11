@@ -7,5 +7,5 @@ description: "Faster, Simpler, and Smarter"
 author: "Filio Team"
 ---
 
-![]("/assets/images/Filio Case Study - WRA Engineering Photo Log Upgrade.pdf")
+![](/assets/images/Filio Case Study - WRA Engineering Photo Log Upgrade.pdf)
 

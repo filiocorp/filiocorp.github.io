@@ -8,7 +8,7 @@ author: "Filio Team"
 ---
  **Filio replaces 8 smartphone apps. (here’s how)**
 
-![](Aspose.Words.a753221b-1676-482f-b474-8ac61393696e.001.jpeg)
+![An Engineer’s Day with Filio](/assets/images/replace8.jpeg)
 
 Whether you’re an engineer on-site, in the office, or working from home, keeping track of project visuals is crucial. 
 

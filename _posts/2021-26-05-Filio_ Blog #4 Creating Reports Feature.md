@@ -45,7 +45,7 @@ Here’s how to use the **Creating Reports** feature on your next project:
 
 5. Make changes. Your reports using Filio are also interactive - you can change/edit any of the fields as needed. Zoom into pictures, add annotations, edit text fields, etc. 
 
-**Note:** *Changes and edits to interactive reports are temporary and do not change the project data, only the document itself.* 
+    - **Note:** *Changes and edits to interactive reports are temporary and do not change the project data, only the document itself.* 
 
 6. Once you’re done, save all changes and **print your report as a PDF.**
 

@@ -21,7 +21,7 @@ This feature saves your team hours (and money!) with just a few clicks. Take it 
 
 *“We have been using Filio for a few months now and it has become a tremendous time saver for condition surveying. The automatic photo reporting has turned what used to be a multiple-hour task into a few short clicks, and GPS based photo map is an incredibly useful feature for large project sites.”* 
 
-*Matt Seinuk | Structural Engineer*
+*Matt Seinuk &#124; Structural Engineer*
 
 Want to impress clients, stakeholders, and project managers too?
 

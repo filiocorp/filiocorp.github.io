@@ -27,11 +27,11 @@ Want to impress clients, stakeholders, and project managers too?
 
 Here’s how to use the **Creating Reports** feature on your next project:
 
-1) To get started, select photos and images from a saved project inside Filio’s web platform. These will be the visual assets generated in your report. 
+1. To get started, select photos and images from a saved project inside Filio’s web platform. These will be the visual assets generated in your report. 
 
-1) Once selected, click the **Create Report** button from the options (second to last) on the bottom left of the screen.
+2. Once selected, click the **Create Report** button from the options (second to last) on the bottom left of the screen.
 
-1) Next, customize your dynamic report with the settings found in the **Report Design, Report Options,** and **Page Order** tabs. 
+3. Next, customize your dynamic report with the settings found in the **Report Design, Report Options,** and **Page Order** tabs. 
 
 **Report Design:** *Choose from one of eight report design/layout options.* 
 
@@ -39,17 +39,17 @@ Here’s how to use the **Creating Reports** feature on your next project:
 
 **Page Order:** *Allows you to flip the pictures, change the presentation order, and reverse.* 
 
-1) When finished, click **Create.**
+4. When finished, click **Create.**
 
 You should see your newly generated report, where you will find your company logo, imported project information, maps (if included), and selected images. 
 
-1) Make changes. Your reports using Filio are also interactive - you can change/edit any of the fields as needed. Zoom into pictures, add annotations, edit text fields, etc. 
+5. Make changes. Your reports using Filio are also interactive - you can change/edit any of the fields as needed. Zoom into pictures, add annotations, edit text fields, etc. 
 
 **Note:** *Changes and edits to interactive reports are temporary and do not change the project data, only the document itself.* 
 
-1) Once you’re done, save all changes and **print your report as a PDF.**
+6. Once you’re done, save all changes and **print your report as a PDF.**
 
-1) Finally, **send your PDF document** to clients, stakeholders, and other parties for your daily and/or monthly reports!
+7. Finally, **send your PDF document** to clients, stakeholders, and other parties for your daily and/or monthly reports!
 
 \_\_\_\_\_\_
 

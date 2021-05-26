@@ -41,7 +41,7 @@ Here’s how to use the **Creating Reports** feature on your next project:
 
 4. When finished, click **Create.**
 
-You should see your newly generated report, where you will find your company logo, imported project information, maps (if included), and selected images. 
+    - You should see your newly generated report, where you will find your company logo, imported project information, maps (if included), and selected images. 
 
 5. Make changes. Your reports using Filio are also interactive - you can change/edit any of the fields as needed. Zoom into pictures, add annotations, edit text fields, etc. 
 

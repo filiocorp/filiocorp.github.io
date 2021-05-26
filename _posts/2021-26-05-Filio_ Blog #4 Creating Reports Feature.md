@@ -33,11 +33,11 @@ Here’s how to use the **Creating Reports** feature on your next project:
 
 3. Next, customize your dynamic report with the settings found in the **Report Design, Report Options,** and **Page Order** tabs. 
 
-**Report Design:** *Choose from one of eight report design/layout options.* 
+  - **Report Design:** *Choose from one of eight report design/layout options.* 
 
-**Report Options:** *Decide whether to include maps in your report and to label the map’s markers.* 
+  - **Report Options:** *Decide whether to include maps in your report and to label the map’s markers.* 
 
-**Page Order:** *Allows you to flip the pictures, change the presentation order, and reverse.* 
+  - **Page Order:** *Allows you to flip the pictures, change the presentation order, and reverse.* 
 
 4. When finished, click **Create.**
 

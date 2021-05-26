@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create Reports’ Feature Highlight"
-date: 2021-05-11 04:00:32 -0400
+date: 2021-05-26 02:03:32 -0400
 categories: jekyll update
 description: "Why Filio report is different"
 author: "Filio Team"

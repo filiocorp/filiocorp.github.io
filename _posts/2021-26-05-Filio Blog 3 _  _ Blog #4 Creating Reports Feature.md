@@ -1,7 +1,15 @@
-﻿
+---
+layout: post
+title: "Create Reports’ Feature Highlight"
+date: 2021-05-11 04:00:32 -0400
+categories: jekyll update
+description: "Why Filio report is different"
+author: "Filio Team"
+---
+
 **Filio Web Platform: ‘Create Reports’ Feature Highlight**
 
-![](Aspose.Words.c7f986e7-379a-4515-a19a-105be08ed10d.001.jpeg)
+![Create Reports’ Feature Highlight](/assets/images/reportfeature.jpeg)
 
 Did you know engineers can utilize our Filio web platform with the ‘**Create Reports’** feature? 
 

@@ -6,4 +6,4 @@ categories: jekyll update
 description: "Faster, Smarter, and Report Organized"
 author: "Filio Team"
 ---
-<embed src="/assets/images/Filio Case Study - Matrix Engineering Case Study MEG.pdf" width="100%" height="850px"/>
+<embed src="/assets/images/Matrix Engineering Case Study MEG.pdf" width="100%" height="850px"/>

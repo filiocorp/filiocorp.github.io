@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Filio Case Study - Matrix Engineering Group Project"
-date: 2023-07-24 02:00:32 -0400
+date: 2023-07-24 02:00:00 -0400
 categories: jekyll update
 description: "Faster, Smarter, and Report Organized"
 author: "Filio Team"

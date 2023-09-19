@@ -9,7 +9,7 @@ author: "Nika Zand"
 
 # Unlocking Efficiency and Collaboration with Filio: Your Visual Asset Management and Digital Asset Management Solution
 
-![Filio](/assets/images/design-02.jpg)
+![Filio](/assets/images/design-02.jpg){: width="500" height="300"}
 
 In today's digital age, [visual assets](https://www.filio.io/) are the cornerstone of businesses across various sectors, significantly enhancing [photo and video digital asset management](https://www.filio.io/). Especially in the construction industry, which relies heavily on [construction project software](https://www.filio.io/) like [building contractor software](https://www.filio.io/) for efficient workflows, Filio takes center stage. It revolutionizes industries such as construction and engineering, where detailed [geo tracking of photos](https://app.filio.io/public/view?pname=SHVycmljYW5lIEZsb3JlbmNlIFJlY29u&uid=ZmlrcmV0QGZpbGlvLmlv&cid=bWFoZGlAZmlsaW8uaW8%3D&pid=ZFJyaTdabUhFUHhWM0pjdXJmRDI%3D) and visual assets management are paramount.
 
